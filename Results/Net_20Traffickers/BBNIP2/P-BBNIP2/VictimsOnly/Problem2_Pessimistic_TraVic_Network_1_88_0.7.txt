@@ -1,0 +1,51 @@
+Instance Net20_OpSameCap.csv, Budget 88, Rate 0.7
+Instance executed at: Fri May 23 16:51:17 2025 
+
+Can Only Remove Victims!
+
+Pareto Point: (76, 17)
+Interdiction:
+(3, 141), Victim
+(4, 141), Victim
+(6, 141), Victim
+(8, 141), Victim
+(9, 141), Victim
+(10, 141), Victim
+(15, 141), Victim
+(16, 141), Victim
+(17, 141), Victim
+(19, 141), Victim
+(22, 141), Victim
+(23, 141), Victim
+(24, 141), Victim
+(26, 141), Victim
+(27, 141), Victim
+(32, 141), Victim
+(34, 141), Victim
+(38, 141), Victim
+(41, 141), Victim
+(43, 141), Victim
+(44, 141), Victim
+(47, 141), Victim
+(52, 141), Victim
+(54, 141), Victim
+(71, 141), Victim
+(77, 141), Victim
+(78, 141), Victim
+(79, 141), Victim
+(80, 141), Victim
+(87, 141), Victim
+(88, 141), Victim
+(90, 141), Victim
+(91, 141), Victim
+(92, 141), Victim
+(94, 141), Victim
+(95, 141), Victim
+(96, 141), Victim
+(100, 141), Victim
+(107, 141), Victim
+(110, 141), Victim
+(111, 141), Victim
+(122, 141), Victim
+(128, 141), Victim
+(139, 141), Victim

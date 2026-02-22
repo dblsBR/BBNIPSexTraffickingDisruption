@@ -1,0 +1,17 @@
+Instance Net20_OpSameCap.csv, Budget 80, Rate 0.1
+Instance executed at: Fri May 23 16:57:38 2025 
+
+Can Only Remove Traffickers!
+
+Pareto Point: (41, 10)
+Interdiction:
+(0, 1), Trafficker
+(0, 11), Trafficker
+(0, 20), Trafficker
+(0, 50), Trafficker
+(0, 65), Trafficker
+(0, 74), Trafficker
+(0, 82), Trafficker
+(0, 104), Trafficker
+(0, 112), Trafficker
+(0, 125), Trafficker
