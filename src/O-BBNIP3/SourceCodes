@@ -1,0 +1,4 @@
+This folder contains all the source codes from O-BBNIP3. To replicate the experiments, edit the 
+"main_Problem3_Opt.py" file to change the input instance file names (make sure to add the complete
+path to the network file or to add the network file to the same folder). Also, make sure to scroll
+down the "main_Problem3.Opt" file to edit/update the names of the result files according to your experiments.
