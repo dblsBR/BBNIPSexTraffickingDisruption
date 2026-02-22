@@ -1,0 +1,11 @@
+Instance Networks/DifferentCapacities/Net10_1_DifCap.csv, Budget 32, Rate 0.4
+Instance executed at: Mon Feb  9 19:35:10 2026 
+
+No Restriction on Interdiction!
+
+Pareto Point: (12, 135)
+Interdiction:
+(0, 1), Trafficker
+(0, 20), Trafficker
+(0, 50), Trafficker
+(0, 65), Trafficker
