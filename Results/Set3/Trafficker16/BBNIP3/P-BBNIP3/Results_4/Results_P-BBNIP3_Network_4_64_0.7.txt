@@ -1,0 +1,67 @@
+Instance Networks/OperationsSameCapacities/Net10_4_OpSameCap.csv, Budget 64, Rate 0.7
+Instance executed at: Thu Aug 20 13:40:20 2026 
+
+No Restriction on Interdiction!
+
+Pareto Point: (17, 115)
+Interdiction:
+(1, 2), Bottom
+(17, 18), Bottom
+(41, 42), Bottom
+(3, 64), Victim
+(4, 64), Victim
+(8, 64), Victim
+(9, 64), Victim
+(12, 64), Victim
+(13, 64), Victim
+(14, 64), Victim
+(15, 64), Victim
+(16, 64), Victim
+(19, 64), Victim
+(20, 64), Victim
+(21, 64), Victim
+(22, 64), Victim
+(23, 64), Victim
+(39, 64), Victim
+(40, 64), Victim
+(43, 64), Victim
+(44, 64), Victim
+(45, 64), Victim
+(46, 64), Victim
+(58, 64), Victim
+(59, 64), Victim
+(60, 64), Victim
+(61, 64), Victim
+(62, 64), Victim
+(63, 64), Victim
+
+Pareto Point: (18, 111)
+Interdiction:
+(1, 2), Bottom
+(17, 18), Bottom
+(41, 42), Bottom
+(3, 64), Victim
+(4, 64), Victim
+(8, 64), Victim
+(9, 64), Victim
+(11, 64), Victim
+(12, 64), Victim
+(13, 64), Victim
+(14, 64), Victim
+(15, 64), Victim
+(16, 64), Victim
+(19, 64), Victim
+(20, 64), Victim
+(21, 64), Victim
+(22, 64), Victim
+(23, 64), Victim
+(43, 64), Victim
+(44, 64), Victim
+(45, 64), Victim
+(46, 64), Victim
+(58, 64), Victim
+(59, 64), Victim
+(60, 64), Victim
+(61, 64), Victim
+(62, 64), Victim
+(63, 64), Victim
