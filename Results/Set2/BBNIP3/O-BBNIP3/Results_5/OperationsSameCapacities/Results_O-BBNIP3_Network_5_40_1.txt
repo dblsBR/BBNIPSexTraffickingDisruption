@@ -1,0 +1,20 @@
+Instance Networks/OperationsSameCapacities/Net10_5_OpSameCap.csv, Budget 40, Rate 1
+Instance executed at: Mon Feb  9 18:24:20 2026 
+
+No Restriction on Interdiction!
+
+Pareto Point: (16, 190)
+Interdiction:
+(0, 11), Trafficker
+(0, 18), Trafficker
+(0, 27), Trafficker
+(0, 34), Trafficker
+(0, 41), Trafficker
+
+Pareto Point: (17, 173)
+Interdiction:
+(0, 11), Trafficker
+(0, 27), Trafficker
+(0, 34), Trafficker
+(0, 41), Trafficker
+(0, 52), Trafficker
